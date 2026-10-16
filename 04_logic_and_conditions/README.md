@@ -6,4 +6,4 @@
 |NOT|None|01010101|It does not modify the status flags|
 |OR|PF,SF|11101110|Even no. of flags and MSB=1|
 |TEST|PF|**No result stored**|Performs bitwise AND.Have two '1's' which are even|
-|XOR|PF|01100110|Two values must be different bitwise.Have two '1's' which are even|
+|XOR|PF|01100110|Two values must be different bitwise.Have four '1's' which are even|
