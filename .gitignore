@@ -27,3 +27,9 @@ core
 # OS-specific files
 .DS_Store
 Thumbs.db
+
+.gdb_history
+06_loop/01_loop_instruction
+06_loop/07_sum_loop
+06_loop/09_loop_syscall
+08_infinite_loop
